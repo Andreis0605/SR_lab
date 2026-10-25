@@ -2,6 +2,7 @@
 
 Source: https://www.kaggle.com/datasets/bhanupratapbiswas/fashion-products
 
+Catalog of fashion products.
 File: `fashion_products.csv`.
 
 ## All attributes
